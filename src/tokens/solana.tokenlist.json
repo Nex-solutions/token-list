@@ -184615,6 +184615,15 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EwCf2MLXS1AXqyFRkLxvPGNaHCK8hsoBv5b3pTXNa5SQ",
+      "symbol": "OURS",
+      "name": "IT IS OURS",
+      "decimals": 6,
+      "logoURI": "https://ours-token-uri.vercel.app/token_image.jpeg",
+      "tags": ["social-token"]
     }
   ],
   "version": {
